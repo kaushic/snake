@@ -1,0 +1,2 @@
+# snake
+Hitting 'Enter' will start the game and hitting 'Enter' again will pause/resume the game. The arrow keys can be used to move the snake. You can't move in the 'reverse' direction as that would intentionally cause a collision with yourself. The game ends unsuccessfully when the snake hits a wall or itself, and successfully when the snake has 'eaten' all the apples. 
